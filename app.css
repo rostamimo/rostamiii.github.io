@@ -1,0 +1,66 @@
+*{
+     padding: 0;
+    margin: 0;    
+    box-sizing: border-box;
+}
+
+body{
+    
+    color: #555;
+    font-family: arial;
+    background-color: #888;
+}
+
+.clear {
+    clear: both}
+    
+div.a{
+    background-color: white;
+    width: 900px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+header .profile .profile-image, header .profile .personal-info {
+    float: left;
+    height: 100px;
+    
+}
+
+header .profile .profile-image{
+    width: 150px;
+    text-align: center;
+}
+
+header .profile .personal-info{
+    width: 710px;
+}
+
+header .profile .personal-info h4{
+    color: #888;
+}
+
+header .profile .personal-info ul{
+    list-style: none;
+    margin: 5px 0;
+}
+
+p.c{
+    font-size:25px;
+    margin: 100px 150px 20px;
+}
+
+section.services{
+background-color:rgb(185, 185, 185);
+color:white;
+}
+
+div.se{
+    font-size: 30px;
+    color: ;
+    padding:20px;
+}
+div.w{
+float: left;
+padding: 0px 40px;
+}
